@@ -10,6 +10,8 @@
 <h3>홈페이지의 구성입니다.</h3>
 <img src="https://user-images.githubusercontent.com/54519603/76162210-bcd3eb80-617e-11ea-8bdf-3731d91f5478.png"/>
 
+<p>회원가입 페이지에서 회원가입을 하게 되면 메인페이지로 이동이 되고 카테고리에서 회원가입을 하면<br/>
+  원래 페이지의 카테고리에서 로그인이 되게끔 path 처리를 하였습니다. </p>
 <p>회원가입 페이지</p>
 <img src="https://user-images.githubusercontent.com/54519603/76162171-433bfd80-617e-11ea-932d-2d6f25b91808.PNG"/>
 <p>마이페이지</p>
